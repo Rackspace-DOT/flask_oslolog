@@ -1,0 +1,6 @@
+coverage
+testtools
+sphinx
+virtualenv
+tox
+nose
