@@ -1,0 +1,15 @@
+*.egg-info
+__pycache__
+*.pyc
+.coverage
+.tox
+cover
+coverage.xml
+flake8.out
+venv*
+nosetests.xml
+.eggs*
+.idea*
+.cache*
+*.env*
+*.log

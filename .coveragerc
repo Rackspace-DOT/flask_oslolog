@@ -1,0 +1,4 @@
+[run]
+include=flask_oslolog/*
+omit=
+    *test_*
