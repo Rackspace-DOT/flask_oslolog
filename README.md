@@ -1,6 +1,6 @@
 Flask_OsloLog
 =============
-[![Build Status](https://travis-ci.org/Rackspace-DOT/flask_oslolog.svg?branch=staging)](https://travis-ci.org/Rackspace-DOT/flask_oslolog)
+[![Build Status](https://travis-ci.org/Rackspace-DOT/flask_oslolog.svg?branch=staging)](https://travis-ci.org/Rackspace-DOT/flask_oslolog) [![Coverage Status](https://coveralls.io/repos/github/Rackspace-DOT/flask_oslolog/badge.svg?branch=master)](https://coveralls.io/github/Rackspace-DOT/flask_oslolog?branch=master)
 
 Flask Oslo Log is a WSGI Middleware and Flask Extension intended to provide
 logging via the Oslo-Log package inside Flask.
