@@ -46,7 +46,7 @@ logging has been enabled. In your log file you will begin to see messages
 like this:
 
 .. code-block:: text
-2017-01-19 18:30:26.654 2082 INFO flask_oslog.middleware [-] 10.19.26.194 russ7612 Confirmed "GET /v1/prefab/1" status: 200 len: 8317
+2017-01-19 18:30:26.654 2082 INFO flask_oslog.middleware [-] 1.2.3.4 my_user Confirmed "GET /resource/1" status: 200 len: 8317
 
 Additionally, arbitrary logging will become available:
 

@@ -12,6 +12,7 @@ Welcome to Flask-OsloLog's documentation!
 
    getting_started
    flask_oslolog
+   license
 
 .. toctree::
    :maxdepth: 2
